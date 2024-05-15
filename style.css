@@ -1,0 +1,42 @@
+.imagem-carossel{
+   object-fit: cover;
+   object-position: 0 40%;
+   height: 400px;
+}
+
+.pacifico-regular {
+   font-family: "Pacifico", cursive;
+ }
+
+
+.borda-cor-especial{
+   border-color: darkred;
+}
+ 
+.cor-especial {
+   color: darkred;
+}
+
+.botao-cor-especial{
+   background-color: darkred;
+   color: bisque;
+}
+
+.botao-cor-especial:hover{
+   background-color: darkred;
+   color: white;
+}
+
+.card-posicao-imagem{
+  object-fit: cover;
+  object-position: 0 60%;
+  height: 200px;
+}
+
+.card-largura {
+  max-width: 18rem;
+}
+
+.visibilidade-1, .visibilidade-2, .visibilidade-3, .visibilidade-4, .visibilidade-4, .visibilidade-4, .visibilidade-5, .visibilidade-6 {
+   visibility: hidden;
+}
